@@ -7,3 +7,6 @@ With Scratch, you can program your own interactive stories, games, and animation
 Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
 The game is deployed and playable at https://scratch.mit.edu/projects/374053599/
+
+To play the game, you move stampy up and down using your mouse (or swiping up and down on touch screens) and using spacebar (or pressing on the touch screen) to fire Stampy's peanuts at the attacking mice and bats. 
+
