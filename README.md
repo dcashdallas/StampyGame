@@ -10,5 +10,5 @@ To play the game, you move stampy up and down using your mouse (or swiping up an
 
 Don't let the mice or bats hit Stampy, or else points will be deducted. 
 
-![Stampy Demo gif](stamp.gif)
+![Stampy Demo gif](https://github.com/dcashdallas/StampyGame/blob/master/stampy.gif?raw=true)
 
